@@ -1,1 +1,1 @@
-# repo-of-bootstrap
+This is a demo for git & Github classs
